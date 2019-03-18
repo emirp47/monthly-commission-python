@@ -1,0 +1,5 @@
+*.pyc
+opwire-agent
+opwire-agent-*
+.DS_Store
+*.DS_Store
